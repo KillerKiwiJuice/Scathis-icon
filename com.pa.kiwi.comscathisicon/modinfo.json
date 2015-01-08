@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "context": "client",
+  "identifier": "com.pa.kiwi.comscathisicon",
+  "display_name": "Strategic Scathis Icon - Commander",
+  "build": "76557",
+  "date": "2014/01/07",
+  "description": "Replaces commander icon with the famous 'Scathis Awesome Face".",
+  "category": [
+        "in-game",
+        "client-mod",
+    "Strategic-icons"
+    ],
+  "author": "KillerKiwiJuice",
+  "version": "1.0",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/rel-strategic-troll-icon.66786/",
+  "icon": "http://i.imgur.com/5RxLLoF.png",
+  "priority": 100
+}
